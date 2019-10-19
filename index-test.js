@@ -1,6 +1,4 @@
 const hero = document.querySelector(".hero");
-const logo = document.querySelector('#logo');
-const header = document.querySelector("header");
 
 const timeline1 = new TimelineMax();
 
